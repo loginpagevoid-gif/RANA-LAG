@@ -1,0 +1,12 @@
+{
+  "licenses": {
+    "RANA-001": {
+      "active": true,
+      "expiresAt": "2026-12-31T23:59:59+05:30"
+    },
+    "RANA-002": {
+      "active": true,
+      "expiresAt": "2026-10-31T23:59:59+05:30"
+    }
+  }
+}

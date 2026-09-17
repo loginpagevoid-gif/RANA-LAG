@@ -1,29 +1,8 @@
 {
-  "login": {
-    "enabled": true,
-    "username": "Rana",
-    "password": "RANA-001"
-  },
-
-  "app": {
-    "enabled": true,
-    "version": "1.0.0",
-    "expiresAt": "2026-12-31T23:59:59+05:30"
-  },
-
-  "update": {
-    "enabled": true,
-    "latestVersion": "1.0.0",
-    "title": "RANA LAG UPDATE",
-    "message": "New version available.",
-    "buttonText": "UPDATE NOW",
-    "downloadUrl": "https://example.com/latest.apk"
-  },
-
-  "expired": {
-    "title": "RANA LAG EXPIRED",
-    "message": "This APK version has expired.",
-    "buttonText": "CONTACT ADMIN",
-    "buttonUrl": "https://t.me/MythAdmin"
-  }
+  "appEnabled": true,
+  "password": "RANA-002",
+  "version": "2.0",
+  "forceUpdate": false,
+  "updateUrl": "https://example.com/RANA.apk",
+  "updateMessage": "RANA LAG New Update Available"
 }
